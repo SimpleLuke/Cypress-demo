@@ -15,5 +15,5 @@ My code tests these steps:
 
 Video of my code in action:
 
-https://github.com/SimpleLuke/Cypress-demo/assets/89473016/5176df89-47fb-4b85-a2cf-7b587e76f5b1
+https://github.com/SimpleLuke/Cypress-demo/assets/89473016/f3465c55-ded2-434a-97a0-c7efbdc70577
 
