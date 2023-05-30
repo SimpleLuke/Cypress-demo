@@ -13,6 +13,16 @@ My code tests these steps:
 5. Check the price on the Premium plan
 6. Check the price on the Pro plan
 
+To open Cypress testing browser:
+```
+npx cypress open
+```
+
+To run Cypress tests on the terminal:
+```
+npx cypress run
+```
+
 Video of my code in action:
 
 https://github.com/SimpleLuke/Cypress-demo/assets/89473016/f3465c55-ded2-434a-97a0-c7efbdc70577
