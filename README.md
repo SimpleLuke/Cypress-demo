@@ -9,9 +9,9 @@ My code tests these steps:
 1. Visit Verisart Pricing page
 2. Choose 'Pay monthly' or 'Pay yearly'
 3. Choose 'Individuals' or 'Businesses'
-4. Check price on Starter plan
-5. Check price on Premium plan
-6. Check price on Pro plan
+4. Check the price on the Starter plan
+5. Check the price on the Premium plan
+6. Check the price on the Pro plan
 
 Video of my code in action:
 
